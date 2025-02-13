@@ -69,7 +69,7 @@
     "interface-datastore": "^8.2.0",
     "it-drain": "^3.0.2",
     "it-length": "^3.0.1",
-    "it-length-prefixed": "^9.0.3",
+    "it-length-prefixed": "^10.0.1",
     "it-map": "^3.0.4",
     "it-merge": "^3.0.0",
     "it-parallel": "^3.0.0",
